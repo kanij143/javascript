@@ -1,4 +1,4 @@
-// ternary operator
+//  odd even cheeking using ternary operator
 
 var n = 2;
 var result;
