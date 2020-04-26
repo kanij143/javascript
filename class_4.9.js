@@ -3,9 +3,9 @@
 var n = 12;
 
 if(n > 0){
-    var result = "this number" + n + " is positive";
+    var result = "this number is" + n + " is positive";
 }else{
-    var result = "this number" + n + " is negative";
+    var result = "this number is" + n + " is negative";
 }
 
 console.log(result);
